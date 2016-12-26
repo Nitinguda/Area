@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Area</string>
+    <string name="radioGroupLabel">Find the area of</string>
+    <string name="triangleStr">Triangle</string>
+    <string name="circleStr">Circle</string>
+    <string name="ellipseStr">Ellipse</string>
+    <string name="triangleStr1">Area of Triangle</string>
+    <string name="circleStr1">Area of Circle</string>
+    <string name="ellipseStr1">Area of Ellipse</string>
+    <string name="mainButtonLabel">Do Calculation</string>
+    <string name="mainHint">Calculated area will display here</string>
+</resources>
